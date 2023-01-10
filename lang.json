@@ -1,0 +1,23 @@
+{
+    "lang": {
+        "FR": {
+            "lang": "Français",
+            "current-lang-flag": "imgs/flags/fr.png",
+            "presentation-text": "Étudiant en BUT réseaux et télécommunications. Ma passion pour l'informatique est présente depuis de nombreuses années et elle s'étend tant au niveau logiciel qu'au niveau matériel. J'aime apprendre de nouvelles choses et comprendre comment fonctionnent les technologies qui nous entourent, c'est pourquoi j'ai choisi de poursuivre cette voie professionnelle.",
+            "visualize-cv-title": "Visualiser mon Curriculum Vitæ",
+            "video-title": "Vidéo de présentation",
+            "slideshow-title": "Diaporama FCKNYE Festival : Bruxelles"
+        },
+        "EN": {
+            "lang": "English",
+            "current-lang-flag": "imgs/flags/en.png",
+            "presentation-text": "Student in Network and Telecommunications. My passion for computer science has been present for many years and it extends to both software and hardware. I enjoy learning new things and understanding how the technologies around us work, which is why I chose to pursue this career path.",
+            "visualize-cv-title": "View my Curriculum Vitae",
+            "video-title": "Video presentation",
+            "slideshow-title": "Slideshow FCKNYE Festival: Brussels"
+        }
+    },
+    "constants": {
+        "slides": "12"
+    }
+}
